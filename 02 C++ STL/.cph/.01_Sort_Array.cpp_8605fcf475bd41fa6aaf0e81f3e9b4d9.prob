@@ -1,0 +1,1 @@
+{"name":"Local: 01_Sort_Array","url":"/Users/kirankumar.g/Coding/AskSeniors/02 C++ STL/01_Sort_Array.cpp","tests":[{"id":1737567684729,"input":"7\n4 2 1 7 9 8 2\n","output":"1 2 2 4 7 8 9 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kirankumar.g/Coding/AskSeniors/02 C++ STL/01_Sort_Array.cpp","group":"local","local":true}
