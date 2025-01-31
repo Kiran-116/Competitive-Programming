@@ -1,0 +1,1 @@
+{"name":"Local: 02_Count_Numbers","url":"/Users/kirankumar.g/Coding/AskSeniors/02 C++ STL/02_Count_Numbers.cpp","tests":[{"id":1738300001411,"input":"6 7\n1 1\n1 6\n1 3\n2 1\n1 3\n2 3\n2 5\n","output":"1\n2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kirankumar.g/Coding/AskSeniors/02 C++ STL/02_Count_Numbers.cpp","group":"local","local":true}
