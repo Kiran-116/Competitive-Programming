@@ -1,0 +1,1 @@
+{"name":"Local: 05_Update_Range","url":"/Users/kirankumar.g/Coding/AskSeniors/02 C++ STL/05_Update_Range.cpp","tests":[{"id":1738301297898,"input":"5 3\n1 0 1 0 1\n1 2 1\n3 5 3\n1 5 2\n","output":"4 3 6 5 6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kirankumar.g/Coding/AskSeniors/02 C++ STL/05_Update_Range.cpp","group":"local","local":true}
