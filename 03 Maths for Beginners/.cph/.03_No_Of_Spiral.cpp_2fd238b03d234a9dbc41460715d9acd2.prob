@@ -1,0 +1,1 @@
+{"name":"Local: 03_No_Of_Spiral","url":"/Users/kirankumar.g/Coding/AskSeniors/03 Maths for Beginners/03_No_Of_Spiral.cpp","tests":[{"id":1739157306317,"input":"3\n2 3\n1 1\n4 2","output":"8\n1\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kirankumar.g/Coding/AskSeniors/03 Maths for Beginners/03_No_Of_Spiral.cpp","group":"local","local":true}
